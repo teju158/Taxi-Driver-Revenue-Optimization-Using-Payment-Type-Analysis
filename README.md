@@ -118,6 +118,9 @@ Taxi-Revenue-Analysis
 ├── README.md
 ├── dataset/
 
+# Dataset Description:
+
+The dataset contains taxi trip records including pickup and drop-off time, passenger count, trip distance, fare amount, and payment type. Due to file size limitations, the dataset is not included in this repository, and a download link to the dataset file has been provided.
 
 ## Future Improvements
 
