@@ -90,7 +90,7 @@ A **Q-Q plot** is generated to analyze the distribution of fare amounts.
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/Taxi-Revenue-Analysis.git
+git clone (Link)
 
 2. Navigate to the project folder
 
